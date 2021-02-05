@@ -1,0 +1,347 @@
+2021-02-05 09:41:14,227 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:14,264 - base.py[line:34] - INFO: 等待元素时间为0.036s
+2021-02-05 09:41:14,267 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:14,293 - base.py[line:34] - INFO: 等待元素时间为0.026s
+2021-02-05 09:41:14,293 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:14,316 - base.py[line:34] - INFO: 等待元素时间为0.023s
+2021-02-05 09:41:14,467 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:14,497 - base.py[line:34] - INFO: 等待元素时间为0.029s
+2021-02-05 09:41:14,497 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:14,516 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:14,622 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:14,649 - base.py[line:34] - INFO: 等待元素时间为0.027s
+2021-02-05 09:41:14,649 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:14,667 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:14,737 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="hd_bar"]//li[@id="ECS_MEMBERZONE"]/a[2]')元素可见
+2021-02-05 09:41:15,282 - base.py[line:34] - INFO: 等待元素时间为0.545s
+2021-02-05 09:41:15,359 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:15,382 - base.py[line:34] - INFO: 等待元素时间为0.023s
+2021-02-05 09:41:15,383 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:15,402 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:15,402 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:15,419 - base.py[line:34] - INFO: 等待元素时间为0.017s
+2021-02-05 09:41:15,493 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:15,518 - base.py[line:34] - INFO: 等待元素时间为0.024s
+2021-02-05 09:41:15,518 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:15,554 - base.py[line:34] - INFO: 等待元素时间为0.036s
+2021-02-05 09:41:15,651 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:15,672 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:41:15,672 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:15,691 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:41:15,751 - base.py[line:28] - INFO: 等待('xpath', '//form[@id="jsLoginForm"]//p[1][@class="error-text" and text()="该字段不能为空。"]')元素可见
+2021-02-05 09:41:16,289 - base.py[line:34] - INFO: 等待元素时间为0.538s
+2021-02-05 09:41:16,664 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:16,690 - base.py[line:34] - INFO: 等待元素时间为0.023s
+2021-02-05 09:41:16,691 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:16,712 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:41:16,712 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:16,733 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:41:16,864 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:16,891 - base.py[line:34] - INFO: 等待元素时间为0.027s
+2021-02-05 09:41:16,892 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:16,914 - base.py[line:34] - INFO: 等待元素时间为0.022s
+2021-02-05 09:41:16,982 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:17,001 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:17,001 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:17,018 - base.py[line:34] - INFO: 等待元素时间为0.017s
+2021-02-05 09:41:17,076 - base.py[line:28] - INFO: 等待('xpath', '//form[@id="jsLoginForm"]//p[2][@class="error-text" and text()="该字段不能为空。"]')元素可见
+2021-02-05 09:41:17,611 - base.py[line:34] - INFO: 等待元素时间为0.535s
+2021-02-05 09:41:18,007 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:18,030 - base.py[line:34] - INFO: 等待元素时间为0.023s
+2021-02-05 09:41:18,031 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:18,050 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:18,051 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:18,069 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:18,140 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:18,163 - base.py[line:34] - INFO: 等待元素时间为0.023s
+2021-02-05 09:41:18,163 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:18,180 - base.py[line:34] - INFO: 等待元素时间为0.017s
+2021-02-05 09:41:18,249 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:18,270 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:41:18,270 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:18,292 - base.py[line:34] - INFO: 等待元素时间为0.022s
+2021-02-05 09:41:18,358 - base.py[line:28] - INFO: 等待('xpath', '//form[@id="jsLoginForm"]//p[1][@class="error-text" and text()="该字段不能为空。"]')元素可见
+2021-02-05 09:41:18,893 - base.py[line:34] - INFO: 等待元素时间为0.535s
+2021-02-05 09:41:18,901 - base.py[line:28] - INFO: 等待('xpath', '//form[@id="jsLoginForm"]//p[2][@class="error-text" and text()="该字段不能为空。"]')元素可见
+2021-02-05 09:41:18,923 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:41:19,273 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:19,300 - base.py[line:34] - INFO: 等待元素时间为0.027s
+2021-02-05 09:41:19,301 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:19,322 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:41:19,322 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:19,342 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:19,458 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:19,481 - base.py[line:34] - INFO: 等待元素时间为0.022s
+2021-02-05 09:41:19,481 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:19,499 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:19,595 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:19,614 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:19,614 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:19,632 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:19,692 - base.py[line:28] - INFO: 等待('xpath', '//form[@id="jsLoginForm"]//p[@class="error-text" and text()="无法使用提供的认证信息登录。"]')元素可见
+2021-02-05 09:41:20,227 - base.py[line:34] - INFO: 等待元素时间为0.534s
+2021-02-05 09:41:20,507 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:20,536 - base.py[line:34] - INFO: 等待元素时间为0.029s
+2021-02-05 09:41:20,537 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:20,559 - base.py[line:34] - INFO: 等待元素时间为0.022s
+2021-02-05 09:41:20,560 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:20,577 - base.py[line:34] - INFO: 等待元素时间为0.017s
+2021-02-05 09:41:20,698 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:20,718 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:41:20,718 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:20,736 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:20,829 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:20,848 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:20,848 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:20,869 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:41:20,939 - base.py[line:28] - INFO: 等待('xpath', '//form[@id="jsLoginForm"]//p[@class="error-text" and text()="无法使用提供的认证信息登录。"]')元素可见
+2021-02-05 09:41:21,476 - base.py[line:34] - INFO: 等待元素时间为0.536s
+2021-02-05 09:41:21,830 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:21,855 - base.py[line:34] - INFO: 等待元素时间为0.025s
+2021-02-05 09:41:21,856 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:21,878 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:41:21,879 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:21,898 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:22,012 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:22,033 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:41:22,034 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:22,052 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:22,146 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:22,166 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:22,166 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:22,184 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:22,239 - base.py[line:28] - INFO: 等待('xpath', '//form[@id="jsLoginForm"]//p[@class="error-text" and text()="无法使用提供的认证信息登录。"]')元素可见
+2021-02-05 09:41:22,776 - base.py[line:34] - INFO: 等待元素时间为0.536s
+2021-02-05 09:41:23,069 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:23,092 - base.py[line:34] - INFO: 等待元素时间为0.023s
+2021-02-05 09:41:23,093 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:23,113 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:23,114 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:23,133 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:23,256 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:23,277 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:41:23,277 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:23,295 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:23,479 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:23,499 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:41:23,499 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:23,516 - base.py[line:34] - INFO: 等待元素时间为0.017s
+2021-02-05 09:41:23,577 - base.py[line:28] - INFO: 等待('xpath', '//form[@id="jsLoginForm"]//p[@class="error-text" and text()="无法使用提供的认证信息登录。"]')元素可见
+2021-02-05 09:41:24,115 - base.py[line:34] - INFO: 等待元素时间为0.538s
+2021-02-05 09:41:44,905 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:44,941 - base.py[line:34] - INFO: 等待元素时间为0.036s
+2021-02-05 09:41:44,941 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:44,968 - base.py[line:34] - INFO: 等待元素时间为0.027s
+2021-02-05 09:41:44,968 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:44,989 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:41:45,126 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:45,154 - base.py[line:34] - INFO: 等待元素时间为0.028s
+2021-02-05 09:41:45,154 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:45,174 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:45,269 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:45,297 - base.py[line:34] - INFO: 等待元素时间为0.028s
+2021-02-05 09:41:45,297 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:45,315 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:41:48,754 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="main_nav_link"]//a[@class="meunAll"]')元素可见
+2021-02-05 09:41:48,798 - base.py[line:34] - INFO: 等待元素时间为0.044s
+2021-02-05 09:41:48,798 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="main_nav_link"]//a[@class="meunAll"]')元素可见
+2021-02-05 09:41:48,854 - base.py[line:34] - INFO: 等待元素时间为0.057s
+2021-02-05 09:41:49,129 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="newgoods_fastbuy"]//li[1]//span[@class="p-price"]//em[@class="fastbuy_price"]')元素可见
+2021-02-05 09:41:49,156 - base.py[line:34] - INFO: 等待元素时间为0.026s
+2021-02-05 09:41:49,275 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="J_mainCata"]//li[@class="first"]/h3//a[text()="酸奶"]')元素可见
+2021-02-05 09:41:49,324 - base.py[line:34] - INFO: 等待元素时间为0.049s
+2021-02-05 09:41:49,650 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="warp-box"]//h2/em[text()="刚出炉新品"]')元素可见
+2021-02-05 09:41:49,683 - base.py[line:34] - INFO: 等待元素时间为0.032s
+2021-02-05 09:41:49,983 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="hd_bar"]//li[@id="ECS_MEMBERZONE"]/a[2]')元素可见
+2021-02-05 09:41:50,018 - base.py[line:34] - INFO: 等待元素时间为0.035s
+2021-02-05 09:41:50,018 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="hd_bar"]//li[@id="ECS_MEMBERZONE"]/a[2]')元素可见
+2021-02-05 09:41:50,072 - base.py[line:34] - INFO: 等待元素时间为0.055s
+2021-02-05 09:41:52,157 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:52,177 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:41:52,557 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:52,583 - base.py[line:34] - INFO: 等待元素时间为0.026s
+2021-02-05 09:41:52,583 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:52,603 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:41:52,603 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:41:52,623 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:52,747 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:52,775 - base.py[line:34] - INFO: 等待元素时间为0.028s
+2021-02-05 09:41:52,775 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:41:52,803 - base.py[line:34] - INFO: 等待元素时间为0.028s
+2021-02-05 09:41:52,915 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:52,937 - base.py[line:34] - INFO: 等待元素时间为0.022s
+2021-02-05 09:41:52,937 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:41:52,963 - base.py[line:34] - INFO: 等待元素时间为0.026s
+2021-02-05 09:41:56,418 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="search_box"]//input[@id="keyword"]')元素可见
+2021-02-05 09:41:56,450 - base.py[line:34] - INFO: 等待元素时间为0.031s
+2021-02-05 09:41:56,450 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="search_box"]//input[@id="keyword"]')元素可见
+2021-02-05 09:41:56,470 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:41:57,106 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="search_box"]//button[@class="sea_submit"]')元素可见
+2021-02-05 09:41:57,131 - base.py[line:34] - INFO: 等待元素时间为0.026s
+2021-02-05 09:41:57,132 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="search_box"]//button[@class="sea_submit"]')元素可见
+2021-02-05 09:41:57,151 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:41:59,253 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="productlist"]//ul[@class="cle"]//li[1]//span[@class="productname"]')元素可见
+2021-02-05 09:41:59,793 - base.py[line:34] - INFO: 等待元素时间为0.539s
+2021-02-05 09:42:00,454 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="ECS_CARTINFO"]//a[@class="tit"]')元素可见
+2021-02-05 09:42:00,485 - base.py[line:34] - INFO: 等待元素时间为0.031s
+2021-02-05 09:42:00,485 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="ECS_CARTINFO"]//a[@class="tit"]')元素可见
+2021-02-05 09:42:00,507 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:42:02,782 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="list"]//div[@class="count"]//a[@class="btn" and contains(text(), "去结算")]')元素可见
+2021-02-05 09:42:02,812 - base.py[line:34] - INFO: 等待元素时间为0.030s
+2021-02-05 09:42:02,812 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="list"]//div[@class="count"]//a[@class="btn" and contains(text(), "去结算")]')元素可见
+2021-02-05 09:42:02,832 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:42:05,101 - base.py[line:28] - INFO: 等待('xpath', '//p[@class="sumup"]//a[@class="btn" and contains(text(), "去结算")]')元素可见
+2021-02-05 09:42:05,142 - base.py[line:34] - INFO: 等待元素时间为0.041s
+2021-02-05 09:42:24,988 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:42:25,027 - base.py[line:34] - INFO: 等待元素时间为0.039s
+2021-02-05 09:42:25,027 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:42:25,056 - base.py[line:34] - INFO: 等待元素时间为0.029s
+2021-02-05 09:42:25,056 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:42:25,083 - base.py[line:34] - INFO: 等待元素时间为0.027s
+2021-02-05 09:42:25,241 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:42:25,266 - base.py[line:34] - INFO: 等待元素时间为0.025s
+2021-02-05 09:42:25,266 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:42:25,285 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:42:25,378 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:42:25,405 - base.py[line:34] - INFO: 等待元素时间为0.026s
+2021-02-05 09:42:25,405 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:42:25,426 - base.py[line:34] - INFO: 等待元素时间为0.022s
+2021-02-05 09:42:29,063 - base.py[line:28] - INFO: 等待('xpath', '//ul[@id="sub_nav"]//a[contains(text(), "澳洲大龙虾")]')元素可见
+2021-02-05 09:42:29,612 - base.py[line:34] - INFO: 等待元素时间为0.548s
+2021-02-05 09:42:29,612 - base.py[line:28] - INFO: 等待('xpath', '//ul[@id="sub_nav"]//a[contains(text(), "澳洲大龙虾")]')元素可见
+2021-02-05 09:42:29,635 - base.py[line:34] - INFO: 等待元素时间为0.023s
+2021-02-05 09:42:29,774 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="cate-menu"]//a/strong[text()="澳洲大龙虾"]')元素可见
+2021-02-05 09:42:30,335 - base.py[line:34] - INFO: 等待元素时间为0.560s
+2021-02-05 09:42:30,336 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="cate-menu"]//a/strong[text()="澳洲大龙虾"]')元素可见
+2021-02-05 09:42:30,355 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:42:30,888 - base.py[line:28] - INFO: 等待('xpath', '//ul[@id="sub_nav"]//a[contains(text(), "精选茗茶")]')元素可见
+2021-02-05 09:42:31,429 - base.py[line:34] - INFO: 等待元素时间为0.541s
+2021-02-05 09:42:31,429 - base.py[line:28] - INFO: 等待('xpath', '//ul[@id="sub_nav"]//a[contains(text(), "精选茗茶")]')元素可见
+2021-02-05 09:42:31,448 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:42:31,522 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="cate-menu"]//a/strong[text()="精选茗茶"]')元素可见
+2021-02-05 09:42:32,060 - base.py[line:34] - INFO: 等待元素时间为0.536s
+2021-02-05 09:42:32,060 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="cate-menu"]//a/strong[text()="精选茗茶"]')元素可见
+2021-02-05 09:42:32,079 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:42:32,500 - base.py[line:28] - INFO: 等待('xpath', '//ul[@id="sub_nav"]//a[contains(text(), "酒水饮料")]')元素可见
+2021-02-05 09:42:33,044 - base.py[line:34] - INFO: 等待元素时间为0.544s
+2021-02-05 09:42:33,044 - base.py[line:28] - INFO: 等待('xpath', '//ul[@id="sub_nav"]//a[contains(text(), "酒水饮料")]')元素可见
+2021-02-05 09:42:33,063 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:42:33,135 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="cate-menu"]//a/strong[text()="酒水饮料"]')元素可见
+2021-02-05 09:42:33,674 - base.py[line:34] - INFO: 等待元素时间为0.539s
+2021-02-05 09:42:33,674 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="cate-menu"]//a/strong[text()="酒水饮料"]')元素可见
+2021-02-05 09:42:33,693 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:42:53,708 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:42:53,741 - base.py[line:34] - INFO: 等待元素时间为0.033s
+2021-02-05 09:42:53,741 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:42:53,769 - base.py[line:34] - INFO: 等待元素时间为0.027s
+2021-02-05 09:42:53,770 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:42:53,792 - base.py[line:34] - INFO: 等待元素时间为0.022s
+2021-02-05 09:42:53,930 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:42:53,956 - base.py[line:34] - INFO: 等待元素时间为0.025s
+2021-02-05 09:42:53,957 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:42:53,976 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:42:54,077 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:42:54,102 - base.py[line:34] - INFO: 等待元素时间为0.025s
+2021-02-05 09:42:54,102 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:42:54,119 - base.py[line:34] - INFO: 等待元素时间为0.017s
+2021-02-05 09:42:57,588 - base.py[line:28] - INFO: 等待('xpath', '//li[@class="more-menu"]/a[text()="会员中心"]')元素可见
+2021-02-05 09:42:57,654 - base.py[line:34] - INFO: 等待元素时间为0.065s
+2021-02-05 09:42:57,654 - base.py[line:28] - INFO: 等待('xpath', '//li[@class="more-menu"]/a[text()="会员中心"]')元素可见
+2021-02-05 09:42:57,703 - base.py[line:34] - INFO: 等待元素时间为0.049s
+2021-02-05 09:42:57,984 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="more-bd show"]//div[@class="list"]//a[text()="我的订单"]')元素可见
+2021-02-05 09:42:58,012 - base.py[line:34] - INFO: 等待元素时间为0.028s
+2021-02-05 09:42:58,012 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="more-bd show"]//div[@class="list"]//a[text()="我的订单"]')元素可见
+2021-02-05 09:42:58,033 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:42:58,125 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="box_1"]//h5/span[text()="我的订单"]')元素可见
+2021-02-05 09:42:58,158 - base.py[line:34] - INFO: 等待元素时间为0.032s
+2021-02-05 09:42:58,506 - base.py[line:28] - INFO: 等待('xpath', '//li[@class="more-menu"]/a[text()="会员中心"]')元素可见
+2021-02-05 09:42:58,529 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:42:58,529 - base.py[line:28] - INFO: 等待('xpath', '//li[@class="more-menu"]/a[text()="会员中心"]')元素可见
+2021-02-05 09:42:58,564 - base.py[line:34] - INFO: 等待元素时间为0.035s
+2021-02-05 09:42:58,850 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="more-bd show"]//div[@class="list"]//a[text()="我的收藏"]')元素可见
+2021-02-05 09:42:58,876 - base.py[line:34] - INFO: 等待元素时间为0.025s
+2021-02-05 09:42:58,877 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="more-bd show"]//div[@class="list"]//a[text()="我的收藏"]')元素可见
+2021-02-05 09:42:58,898 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:42:59,041 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="box_1"]//h5/span[text()="我的收藏"]')元素可见
+2021-02-05 09:42:59,074 - base.py[line:34] - INFO: 等待元素时间为0.032s
+2021-02-05 09:42:59,376 - base.py[line:28] - INFO: 等待('xpath', '//li[@class="more-menu"]/a[text()="会员中心"]')元素可见
+2021-02-05 09:42:59,400 - base.py[line:34] - INFO: 等待元素时间为0.022s
+2021-02-05 09:42:59,400 - base.py[line:28] - INFO: 等待('xpath', '//li[@class="more-menu"]/a[text()="会员中心"]')元素可见
+2021-02-05 09:42:59,418 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:42:59,690 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="more-bd show"]//div[@class="list"]//a[text()="我的收货地址"]')元素可见
+2021-02-05 09:42:59,730 - base.py[line:34] - INFO: 等待元素时间为0.040s
+2021-02-05 09:42:59,730 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="more-bd show"]//div[@class="list"]//a[text()="我的收货地址"]')元素可见
+2021-02-05 09:42:59,752 - base.py[line:34] - INFO: 等待元素时间为0.022s
+2021-02-05 09:42:59,954 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="box_1"]//h5/span[text()="收货人信息"]')元素可见
+2021-02-05 09:42:59,990 - base.py[line:34] - INFO: 等待元素时间为0.036s
+2021-02-05 09:43:20,378 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:43:20,412 - base.py[line:34] - INFO: 等待元素时间为0.034s
+2021-02-05 09:43:20,413 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:43:20,439 - base.py[line:34] - INFO: 等待元素时间为0.026s
+2021-02-05 09:43:20,440 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:43:20,461 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:43:20,598 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:43:20,629 - base.py[line:34] - INFO: 等待元素时间为0.031s
+2021-02-05 09:43:20,629 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:43:20,650 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:43:20,752 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:43:20,787 - base.py[line:34] - INFO: 等待元素时间为0.034s
+2021-02-05 09:43:20,787 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:43:20,810 - base.py[line:34] - INFO: 等待元素时间为0.023s
+2021-02-05 09:43:24,306 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="newgoods_fastbuy"]//a[@class="imgBox"]/img')元素可见
+2021-02-05 09:43:24,854 - base.py[line:34] - INFO: 等待元素时间为0.549s
+2021-02-05 09:43:24,854 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="newgoods_fastbuy"]//a[@class="imgBox"]/img')元素可见
+2021-02-05 09:43:24,874 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:43:26,992 - base.py[line:28] - INFO: 等待('xpath', '//dl[@class="loaded"]//li/span[@class="icon_promo"]')元素可见
+2021-02-05 09:43:27,035 - base.py[line:34] - INFO: 等待元素时间为0.043s
+2021-02-05 09:43:27,464 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@id="buy_btn"]')元素可见
+2021-02-05 09:43:27,516 - base.py[line:34] - INFO: 等待元素时间为0.051s
+2021-02-05 09:43:27,516 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@id="buy_btn"]')元素可见
+2021-02-05 09:43:27,540 - base.py[line:34] - INFO: 等待元素时间为0.023s
+2021-02-05 09:43:29,600 - base.py[line:28] - INFO: 等待('xpath', '//div[@id="cart_show"]//a[@class="btn" and contains(text(), "去结算")]')元素可见
+2021-02-05 09:43:29,626 - base.py[line:34] - INFO: 等待元素时间为0.026s
+2021-02-05 09:43:30,012 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@class="graybtn"]')元素可见
+2021-02-05 09:43:30,040 - base.py[line:34] - INFO: 等待元素时间为0.027s
+2021-02-05 09:43:30,040 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@class="graybtn"]')元素可见
+2021-02-05 09:43:30,059 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:43:32,646 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@id="fav-btn"]')元素可见
+2021-02-05 09:43:53,040 - base.py[line:36] - ERROR: Message: 
+
+2021-02-05 09:43:57,953 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@class="graybtn"]')元素可见
+2021-02-05 09:43:57,984 - base.py[line:34] - INFO: 等待元素时间为0.031s
+2021-02-05 09:43:57,985 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@class="graybtn"]')元素可见
+2021-02-05 09:43:58,016 - base.py[line:34] - INFO: 等待元素时间为0.031s
+2021-02-05 09:44:02,075 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@id="fav-btn"]')元素可见
+2021-02-05 09:44:02,094 - base.py[line:34] - INFO: 等待元素时间为0.019s
+2021-02-05 09:44:04,704 - base.py[line:28] - INFO: 等待('xpath', '//li[@class="more-menu"]/a[text()="会员中心"]')元素可见
+2021-02-05 09:44:04,739 - base.py[line:34] - INFO: 等待元素时间为0.035s
+2021-02-05 09:44:04,739 - base.py[line:28] - INFO: 等待('xpath', '//li[@class="more-menu"]/a[text()="会员中心"]')元素可见
+2021-02-05 09:44:04,757 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:44:05,038 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="more-bd show"]//div[@class="list"]//a[text()="我的收藏"]')元素可见
+2021-02-05 09:44:05,072 - base.py[line:34] - INFO: 等待元素时间为0.034s
+2021-02-05 09:44:05,072 - base.py[line:28] - INFO: 等待('xpath', '//div[@class="more-bd show"]//div[@class="list"]//a[text()="我的收藏"]')元素可见
+2021-02-05 09:44:05,100 - base.py[line:34] - INFO: 等待元素时间为0.027s
+2021-02-05 09:44:07,712 - base.py[line:28] - INFO: 等待('xpath', '//table//td[3]//a[@class="f6"]')元素可见
+2021-02-05 09:44:07,743 - base.py[line:34] - INFO: 等待元素时间为0.031s
+2021-02-05 09:44:24,524 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:44:24,558 - base.py[line:34] - INFO: 等待元素时间为0.034s
+2021-02-05 09:44:24,559 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:44:24,586 - base.py[line:34] - INFO: 等待元素时间为0.027s
+2021-02-05 09:44:24,587 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="account_l"]')元素可见
+2021-02-05 09:44:24,608 - base.py[line:34] - INFO: 等待元素时间为0.021s
+2021-02-05 09:44:24,754 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:44:24,785 - base.py[line:34] - INFO: 等待元素时间为0.031s
+2021-02-05 09:44:24,786 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="password_l"]')元素可见
+2021-02-05 09:44:24,805 - base.py[line:34] - INFO: 等待元素时间为0.018s
+2021-02-05 09:44:24,907 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:44:24,932 - base.py[line:34] - INFO: 等待元素时间为0.025s
+2021-02-05 09:44:24,933 - base.py[line:28] - INFO: 等待('xpath', '//input[@id="jsLoginBtn"]')元素可见
+2021-02-05 09:44:24,950 - base.py[line:34] - INFO: 等待元素时间为0.017s
+2021-02-05 09:44:28,389 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="newgoods_fastbuy"]//a[@class="imgBox"]/img')元素可见
+2021-02-05 09:44:28,941 - base.py[line:34] - INFO: 等待元素时间为0.551s
+2021-02-05 09:44:28,942 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="newgoods_fastbuy"]//a[@class="imgBox"]/img')元素可见
+2021-02-05 09:44:28,962 - base.py[line:34] - INFO: 等待元素时间为0.020s
+2021-02-05 09:44:31,069 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@id="fav-btn"]')元素可见
+2021-02-05 09:44:31,110 - base.py[line:34] - INFO: 等待元素时间为0.040s
+2021-02-05 09:44:31,110 - base.py[line:28] - INFO: 等待('xpath', '//ul[@class="sku"]//a[@id="fav-btn"]')元素可见
+2021-02-05 09:44:31,137 - base.py[line:34] - INFO: 等待元素时间为0.027s
